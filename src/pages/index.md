@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/mu.jpg
+    image: images/Bitmask3-ExportWhite.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
